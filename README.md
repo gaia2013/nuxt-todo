@@ -8,5 +8,5 @@ Udemy, Proglusで公開しているNuxt.js入門コースのサンプルコー�
 # done プロパティ の が true の場合 打ち消し線
 <img width="1437" alt="スクリーンショット 2021-12-09 21 06 20" src="https://user-images.githubusercontent.com/3797539/145397307-dae0e27d-6d0d-446a-822e-e9b04de838fa.png">
 
-# 登録日時昇順
+# ソート 登録日時昇順
 <img width="297" alt="スクリーンショット 2021-12-09 21 30 49" src="https://user-images.githubusercontent.com/3797539/145397312-f8124afb-987f-4cf2-9a37-1db20fdf8bc1.png">
