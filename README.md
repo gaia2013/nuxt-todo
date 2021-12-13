@@ -5,7 +5,7 @@ Udemy, Proglusで公開しているNuxt.js入門コースのサンプルコー�
 <img width="612" alt="スクリーンショット 2021-12-09 20 58 05" src="https://user-images.githubusercontent.com/3797539/145397302-88023045-0079-4cbd-a29c-368dd4da0ce8.png">
 <img width="1110" alt="スクリーンショット 2021-12-09 20 58 13" src="https://user-images.githubusercontent.com/3797539/145397304-eab5f607-749a-4f6b-afbb-7773fd437eba.png">
 
-# done プロパティ の が true の場合 打ち消し線
+# done プロパティ が true の場合 打ち消し線
 <img width="1437" alt="スクリーンショット 2021-12-09 21 06 20" src="https://user-images.githubusercontent.com/3797539/145397307-dae0e27d-6d0d-446a-822e-e9b04de838fa.png">
 
 # ソート 登録日時昇順
